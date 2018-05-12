@@ -1,0 +1,47 @@
+_repo: Perseverance-IslandOr-The-Robinson-Crusoe-of-the-Nineteenth-Century_46128
+_version: 0.1.0
+alternative_title: Perseverance Island; Or, The Robinson Crusoe of the 19th Century
+contributor:
+  illustrator:
+    agent_name: Merrill, Frank T.
+    aliases:
+    - Merrill, F. T.
+    - Merrill, Frank Thayer
+    birthdate: 1848
+    gutenberg_agent_id: '6202'
+    url: http://www.gutenberg.org/2009/agents/6202
+covers:
+- cover_type: archival
+  image_path: 46128-h/images/cover-image.jpg
+creator:
+  author:
+    agent_name: Frazar, Douglas
+    birthdate: 1836
+    deathdate: 1896
+    gutenberg_agent_id: '40239'
+    url: http://www.gutenberg.org/2009/agents/40239
+description: ''
+gutenberg_issued: '2014-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46128'
+  lccn: '06043144'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Utopias -- Juvenile fiction'
+- !lcsh 'Robinsonades'
+- !lcc 'PZ'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Family -- Juvenile fiction'
+- !lcsh 'Fishing -- Juvenile fiction'
+- !lcsh 'Gold -- Juvenile fiction'
+- !lcsh 'Pirates -- Juvenile fiction'
+- !lcsh 'Islands -- Juvenile fiction'
+- !lcsh 'Shipwrecks -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Hunting -- Juvenile fiction'
+title: Perseverance Island; Or, The Robinson Crusoe of the Nineteenth Century
+url: http://www.gutenberg.org/ebooks/46128
