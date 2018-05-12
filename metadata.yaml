@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '40239'
     url: http://www.gutenberg.org/2009/agents/40239
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46128#Perseverance-IslandOr-The-Robinson-Crusoe-of-the-Nineteenth-Century
 gutenberg_issued: '2014-07-03'
 gutenberg_type: Text
 identifiers:
